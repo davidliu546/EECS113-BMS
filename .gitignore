@@ -3,3 +3,4 @@
 *.pyc
 libdht.so
 log.txt
+*.env

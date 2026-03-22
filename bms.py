@@ -41,8 +41,8 @@ temp_history = []
 last_motion_time = time.time()
 log_file = "log.txt"
 
-# OpenWeatherMap API
-API_KEY = "100b4d7421e42dbca1d940b8c40d638b"
+# OpenWeatherMap API, replace with own key + city
+API_KEY = "keyhere"
 CITY = "Irvine"
 
 # using API to get humidity 
